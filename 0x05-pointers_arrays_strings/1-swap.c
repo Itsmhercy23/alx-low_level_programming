@@ -1,5 +1,3 @@
-nes (15 sloc)  208 Bytes
-   
 #include "main.h"
 /**
  *swap_int - swap value of two ints.
