@@ -1,16 +1,18 @@
-#include "mai.h"       
+nes (15 sloc)  208 Bytes
+   
+#include "main.h"
 /**
- * swap_int - function swaps the values of two integers
- * @a: integer one
- * @b: integer two
- * Ret     urn: 0 Succes
+ *swap_int - swap value of two ints.
+ *@a: pointer to one int.
+ *@b: pointer to second int.
+ *
+ *Return: void.
  */
- void swap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
-	int temporal;
+	int c;
 	
-	temporal = *a;
-	
+	c = *a;
 	*a = *b;
-	b = temporal;
+	*b = c;
 }
