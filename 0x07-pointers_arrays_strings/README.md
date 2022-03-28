@@ -1,2 +1,2 @@
-C - Even more pointers, arrays and strings
-I was able to learne about what and how to use pointers to pointers and multidimensional arrays in C as well as the most common C standard library functions to manipulate strings.
+C - Even more pointers, arrays and strings.
+I was able to learn about what and how to use pointers to pointers and multidimensional arrays in C as well as the most common C standard library functions to manipulate strings.
