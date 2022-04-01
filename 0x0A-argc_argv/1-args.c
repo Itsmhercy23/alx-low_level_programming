@@ -1,5 +1,3 @@
-ble File  12 lines (12 sloc)  319 Bytes
-   
 #include <stdio.h>
 /**
  * main - prints the number of arguments passed into it.
